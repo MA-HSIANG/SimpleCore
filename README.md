@@ -28,4 +28,4 @@
 2. 僅封裝內存緩存，可自行增加Redis
 3. IDesignTimeDbContextFactory 接口配置
 4. 封裝ExceptionAop、GlobalExceptionFilter 錯誤攔截詳細可自行增強邏輯
-5. 內封裝RGBA和自訂義授權政策，可直接使用。
+5. 內封裝RBAC和自訂義授權政策，可直接使用。
